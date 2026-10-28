@@ -20,4 +20,5 @@ Dataset link : https://drive.google.com/file/d/1IjL6vaow5E-j81nALfjSEKwqqbLUZpTy
 18. Which car has the highest owner count?
 19. What is the average engine size for cars with diesel fuel type?
 20. How many cars have a price greater than $10,000?
-*These questions cover a variety of analytical tasks, including aggregations, filtering, grouping, and statistical analysis, using the provided dataset* 
+
+**These questions cover a variety of analytical tasks, including aggregations, filtering, grouping, and statistical analysis, using the provided dataset**
